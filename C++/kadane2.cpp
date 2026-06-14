@@ -1,10 +1,10 @@
-//ALL POSITIVE ELEMENTS IN THE ARRAY-bro
+//ALL ELEMENTS ARE MIXED POSITIVE as well as Negative bro9
 #include<iostream>
 using namespace std;
 
 int main() {
-    int a[] = {2, 4, 6, 8, 10};
-    int n = sizeof(arr) /sizeof(a[0]);
+    int a[] = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
+    int n = sizeof(a) / sizeof(a[0]);
 
     int currSum = a[0];
     int maxSum = a[0];
