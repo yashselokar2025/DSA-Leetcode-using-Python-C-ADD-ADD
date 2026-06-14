@@ -12,6 +12,5 @@ int main() {
     vec.pop_back();
     
     cout<<"DEKHLE OTH INDEX PE"<<vec.at(0)<<endl;
-   
     return 0;
 }
